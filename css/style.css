@@ -1,0 +1,18 @@
+:root {
+    --clr-primary: #2B50AA;
+    --clr-secondary: #A2223A;
+    --clr-secondary-500: #E56B76;
+
+    --clr-white: #FAFAFF;
+    --clr-black: #0B0A09;
+    --clr-purple: #464175;
+    --clr-green: #52874D;
+    --clr-blue: #4181A5;
+    --clr-red: #B74E4F;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
